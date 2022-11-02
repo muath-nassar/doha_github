@@ -1,0 +1,2 @@
+def printMyInfo():
+    print("Nothing")
